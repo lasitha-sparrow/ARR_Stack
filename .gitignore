@@ -1,0 +1,12 @@
+# Local environment / credentials
+.env
+
+# Runtime data, credentials, databases, torrents and media
+/config/
+/data/
+/backups/
+
+# Temporary files
+*.log
+*.tar.gz
+.DS_Store
