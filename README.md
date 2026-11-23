@@ -1,6 +1,6 @@
 # ARR Stack — Docker Compose Installation & Operations Guide
 
-![ARR Stack cover](assets/arr-stack-cover.png)
+![ARR Stack cover](arr-stack-cover.png)
 
 [![Docker Compose](https://img.shields.io/badge/Deployment-Docker%20Compose-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/compose/)
 [![Servarr](https://img.shields.io/badge/Media%20Automation-Sonarr%20%7C%20Radarr%20%7C%20Prowlarr-4051B5)](https://wiki.servarr.com/)
